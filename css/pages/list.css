@@ -18,7 +18,7 @@
     padding-right: 1rem;
 }
 .page-list .list .level {
-    width: 100%;
+    width: 90%;
 }
 .page-list .list .level button {
     background-color: var(--color-background);
