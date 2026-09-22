@@ -5,7 +5,7 @@
     "creators": ["HelloEJ100"],
     "verifier": "HelloEJ100",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "percentToQualify": "80",
     "password": "-",
     "records": [
         {
@@ -14,11 +14,5 @@
             "percent": 100,
             "hz": 360
         },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
