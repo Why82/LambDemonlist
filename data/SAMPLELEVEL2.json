@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
+    "id": 248,
+    "name": "Glow Phazer",
+    "author": "HelloEJ100",
+    "creators": ["HelloEJ100"],
+    "verifier": "HelloEJ100",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "percentToQualify": "80",
+    "password": "-",
     "records": [
+        {
+            "user": "Test",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }
