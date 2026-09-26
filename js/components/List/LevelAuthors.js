@@ -7,12 +7,17 @@ export default {
         },
         creators: {
             type: Array,
-            required: true,
             default: () => [],
         },
         verifier: {
             type: String,
             required: true,
+        },
+    },
+
+    computed: {
+        selfVerified() {
+            return this.author === this.verifier && this.creators.length === 0;
         },
     },
 
@@ -30,6 +35,7 @@ export default {
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>
+
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
@@ -56,11 +62,5 @@ export default {
             </p>
         </div>
     `,
-
-    computed: {
-        selfVerified() {
-            return this.author === this.verifier && this.creators.length === 0;
-        },
-    },
 };
 ```
