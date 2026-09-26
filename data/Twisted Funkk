@@ -1,0 +1,42 @@
+{
+    "id": 141,
+    "name": "Twisted Funkk",
+    "author": "Skenn",
+    "creator": ["Skenn"],
+    "verifier": "Skenn",
+    "verification": "-",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "K4gamineLen",
+            "link": "",
+            "percent": 100,
+            "hz": ?
+        },
+ {
+            "user": "Why",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+ {
+            "user": "JBearr",
+            "link": "",
+            "percent": 100,
+            "hz": ?
+        },
+ {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": ?
+        },
+ {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+    ]
+}
