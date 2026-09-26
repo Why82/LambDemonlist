@@ -8,12 +8,14 @@ export default {
         creators: {
             type: Array,
             required: true,
+            default: () => [],
         },
         verifier: {
             type: String,
             required: true,
         },
     },
+
     template: `
         <div class="level-authors">
             <template v-if="selfVerified">
@@ -28,6 +30,7 @@ export default {
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>
+
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
@@ -41,8 +44,7 @@ export default {
                         v-for="(creator, index) in creators"
                         :key="\`creator-\$\{creator\}\`"
                     >
-                        <span>{{ creator }}</span>
-                        <span v-if="index < creators.length - 1">, </span>
+                        <span>{{ creator }}</span><span v-if="index < creators.length - 1">, </span>
                     </template>
                 </p>
 
@@ -63,4 +65,6 @@ export default {
         selfVerified() {
             return this.author === this.verifier && this.creators.length === 0;
         },
+    },
+};
 ```
