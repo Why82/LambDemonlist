@@ -1,4 +1,3 @@
-```js
 export default {
     props: {
         author: {
@@ -63,4 +62,3 @@ export default {
         </div>
     `,
 };
-```
