@@ -12,7 +12,7 @@
             "user": "K4gamineLen",
             "link": "",
             "percent": 100,
-            "hz": -
+            "hz": 0
         },
  {
             "user": "Why",
@@ -24,19 +24,19 @@
             "user": "JBearr",
             "link": "",
             "percent": 100,
-            "hz": ?
+            "hz": 0
         },
  {
             "user": "Hatsunemiku",
             "link": "",
             "percent": 100,
-            "hz": ?
+            "hz": 0
         },
  {
             "user": "zzZoink",
             "link": "",
             "percent": 100,
             "hz": 60
-        },
+        }
     ]
 }
