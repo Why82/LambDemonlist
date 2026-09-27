@@ -1,0 +1,18 @@
+{
+    "id": 167,
+    "name": "Demon Park",
+    "author": "Zevin",
+    "creator": ["Zevin"],
+    "verifier": "Zevin",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
