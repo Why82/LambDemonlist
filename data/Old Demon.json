@@ -1,0 +1,36 @@
+{
+    "id": 165,
+    "name": "Old Demon",
+    "author": "Why",
+    "creator": ["Why"],
+    "verifier": "Why",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Why",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Emils123456789GD2",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "meow",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
