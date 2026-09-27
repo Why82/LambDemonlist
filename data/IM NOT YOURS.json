@@ -1,0 +1,60 @@
+{
+    "id": 126,
+    "name": "IM NOT YOURS",
+    "author": "JBearr",
+    "creator": ["JBearr"],
+    "verifier": "JBearr",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "JBearr",
+            "link": "",
+            "percent": 100,
+            "hz": 0       
+        },
+       {
+            "user": "Piridin",
+            "link": "",
+            "percent": 100,
+            "hz": 0       
+        },
+       {
+            "user": "Brobuc",
+            "link": "",
+            "percent": 100,
+            "hz": 0       
+        },
+       {
+            "user": "Why",
+            "link": "",
+            "percent": 100,
+            "hz": 144       
+        },
+       {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 0       
+        },
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360       
+        },
+        {
+            "user": "ranny",
+            "link": "",
+            "percent": 100,
+            "hz": 0       
+        },
+        {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60       
+        }
+    ]
+}
