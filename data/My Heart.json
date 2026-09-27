@@ -1,0 +1,36 @@
+{
+    "id": 177,
+    "name": "My Heart",
+    "author": "Emils123456789GD2",
+    "creator": ["Emils123456789GD2"],
+    "verifier": "Emils123456789GD2",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Emils123456789GD2",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+       {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Bivexium",
+            "link": "",
+            "percent": 88,
+            "hz": 0
+        }
+    ]
+}
