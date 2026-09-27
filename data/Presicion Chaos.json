@@ -9,10 +9,22 @@
     "password": "-",
     "records": [
         {
-            "user": "Test",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Hatsunemiku",
+            "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz":
+        },
+         {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
