@@ -1,0 +1,24 @@
+{
+    "id": 226,
+    "name": "Split Worlds",
+    "author": "LightYearGMD",
+    "creator": ["LightYearGMD"],
+    "verifier": "LightYearGMD",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
