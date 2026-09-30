@@ -20,12 +20,8 @@ export default {
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
-<main v-else class="page-list">
-    <div class="list-tabs">
-        Classic
-    </div>
-
-    <div class="list-container">
+        <main v-else class="page-list">
+            <div class="list-container">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
