@@ -132,6 +132,7 @@ export default {
         editors: [],
         loading: true,
         selected: 0,
+        listType: "classic",
         errors: [],
         roleIconMap,
         store
