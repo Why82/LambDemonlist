@@ -7,5 +7,12 @@
     "verification": "",
     "percentToQualify": "80",
     "password": "-",
-    "records": [ ]
+    "records": [
+       {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
