@@ -1,0 +1,18 @@
+{
+    "id": 244,
+    "name": "UltraDynamix",
+    "author": "zzZonik",
+    "creator": ["zzZoink"],
+    "verifier": "zzZoink",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
