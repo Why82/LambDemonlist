@@ -1,0 +1,24 @@
+{
+    "id": 311,
+    "name": "bad grief",
+    "author": "xyz",
+    "creator": ["xyz"],
+    "verifier": "xyz",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 99,
+            "hz": 360
+        }
+    ]
+}
