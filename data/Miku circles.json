@@ -1,0 +1,30 @@
+{
+    "id": 314,
+    "name": "Miku circles",
+    "author": "xyz",
+    "creator": ["xyz"],
+    "verifier": "xyz",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "urbann",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "xyz",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
