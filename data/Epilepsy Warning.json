@@ -1,0 +1,30 @@
+{
+    "id": 289,
+    "name": "Epilepsy Warning",
+    "author": "Hatsunemiku",
+    "creator": ["Hatsunemiku"],
+    "verifier": "Hatsunemiku",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "Emils123456789GD2",
+            "link": "",
+            "percent": 97,
+            "hz": 60
+        }
+    ]
+}
