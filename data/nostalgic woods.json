@@ -1,0 +1,18 @@
+{
+    "id": 105,
+    "name": "nostalgic woods",
+    "author": "Hatsunemiku",
+    "creator": ["Hatsunemiku"],
+    "verifier": "Hatsunemiku",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
