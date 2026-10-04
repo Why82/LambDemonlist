@@ -1,0 +1,18 @@
+{
+    "id": 334,
+    "name": "dislike this pls",
+    "author": "Emils123456789GD2",
+    "creator": ["Emils123456789GD2"],
+    "verifier": "Emils123456789GD2",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Emils123456789GD2",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
