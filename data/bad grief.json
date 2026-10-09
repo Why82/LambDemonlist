@@ -15,9 +15,15 @@
             "hz": 60
         },
        {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
             "user": "Hatsunemiku",
             "link": "",
-            "percent": 99,
+            "percent": 100,
             "hz": 360
         }
     ]
