@@ -31,6 +31,24 @@
             "link": "",
             "percent": 100,
             "hz": 0
+        },      
+       {
+            "user": "Andromeda",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Krzykotoj2",
+            "link": "",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
