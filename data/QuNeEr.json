@@ -1,0 +1,24 @@
+{
+    "id": 245,
+    "name": "QuNeEr",
+    "author": "urbann",
+    "creator": ["urbann"],
+    "verifier": "urbann",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 85,
+            "hz": 60
+        }
+    ]
+}
