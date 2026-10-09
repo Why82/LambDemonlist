@@ -1,0 +1,30 @@
+{
+    "id": 347,
+    "name": "unknown",
+    "author": "anonymous",
+    "creator": ["anonymous"],
+    "verifier": "anonymous",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
