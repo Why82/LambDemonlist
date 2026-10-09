@@ -25,6 +25,36 @@
             "link": "",
             "percent": 100,
             "hz": 0
+        },
+      {
+            "user": "Why",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "Emils123456789GD2",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "krzykotoj2",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+      {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
