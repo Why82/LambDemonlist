@@ -1,0 +1,30 @@
+{
+    "id": 360,
+    "name": "crazy layout",
+    "author": "mavro",
+    "creator": ["mavro"],
+    "verifier": "mavro",
+    "verification": "",
+    "percentToQualify": "80",
+    "password": "-",
+    "records": [
+        {
+            "user": "zzZoink",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Hatsunemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
