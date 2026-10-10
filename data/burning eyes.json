@@ -8,5 +8,23 @@
     "percentToQualify": "80",
     "password": "-",
     "records": [
+      {
+            "user": "Hatsnumemiku",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "LightYearGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "ranny",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
